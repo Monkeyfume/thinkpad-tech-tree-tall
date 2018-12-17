@@ -33,11 +33,11 @@
 2014             │       │       │               │       │
 .                │       │       │               │       ├───────────────┐
 2015            T550    T450s   T450             │       │              W550s
-.                │       │       │               │       ├───────┐       │       ☆              
+.                │       │       │               │       ├───────┐       │       #              
 2016            T560    T460s   T460            T460p   P50     P70     P50s    P40Y
-.        ☆       │       │       ├───────┐       │       │       │       │                                  
+.        #       │       │       ├───────┐       │       │       │       │                                  
 2017    A475    T570    T470s   T470    25      T470p   P51     P71     P51s        
-.        │       │       │       ├───────────────┘       │       │       │       ☆  
+.        │       │       │       ├───────────────┘       │       │       │       #  
 2018    A485    T580    T480s   T480                    P52     P72     P52s    P1
 .
 - the "s" suffix indicates design goals for thinness, lighter weight, and usually more premium materials
@@ -46,7 +46,7 @@
 - the "Y" suffix in the P40Y is short for "Yoga"
 * also includes models with the "i" suffix, indicating weaker processors than the base models
 ↑ indicates the branch continues from older IBM models
-☆ indicates the start of a new branch
+# indicates the start of a new branch
 
  __  __      _      __   __                               _   _____     _    _     _      _ 
  \ \/ /     /_\     \ \ / /__  __ _ __ _     __ _ _ _  __| | |_   _|_ _| |__| |___| |_ __(_)
@@ -65,34 +65,36 @@
 2006                                    X60     X60s    X60T
 .                                        │       │       │
 2007                                    X61     X61s    X61T
-.                        ☆               │       │       │
+.                        #               │       │       │
 2008                    X300/1          X200    X200s    │
 .                        │               │       │       │
 2009                     │               │       │      X200T
-.                        │       ☆       │       │       │
+.                        │       #       │       │       │
 2010                     │      X100e   X201*   X201s   X201T
-.                        │       │       │               │       ☆       ☆               ☆
+.                        │       │       │               │       #       #               #
 2011                    X1      X120/1e X220*           X220T   E220s   E420s           Tablet-1
 .                        │       │       ├───────┐       │       │       ├───────┐       │  
 2012                    X1C-1   X130/1e X230*   X230s   X230T   Twist   S431    S531    Tablet-2
-.        ☆               │       │       │       │               │       │       │       │
+.        #               │       │       │       │               │       │       │       │
 2013    Helix-1          │      X140e   X240    X240s           Yoga    S440    S540     │
 .        │               │               │                       ├───────┐               ├───────┐
 2014     │              X1C-2            │                       │      Y.14-1          10-1     8
 .        │               │               │                       │       │               │
 2015    Helix-2         X1C-3           X250                    Y.12    Y.14-2          10-2
-.        │       ┌───────┤               │                       │       │       ☆          
+.        │       ┌───────┤               │                       │       │       #          
 2016    X1T-1   X1Y-1   X1C-4           X260                    Y.260   Y.460   13-1
-.        │       │       │               │       ☆               │               │          
+.        │       │       │               │       #               │               │          
 2017    X1T-2   X1Y-2   X1C-5           X270    A275            Y.370           13-2
-.        │       │       │       ☆       │       │               ├───────┐┌──────┤         
+.        │       │       │       #       │       │               ├───────┐┌──────┤         
 2018    X1T-3   X1Y-3   X1C-6   X1E     X280    A285            X380Y   L380Y   L380
+.                                                                        │       │
+2019                                                                    L390Y   L390
 .
 - "T" suffix is short for " Tablet"
 - "Y"/"Y." is short for "Yoga"
 * also includes models with the "i" suffix, indicating weaker processors than the base models
 ↑ indicates the branch continues from older IBM models
-☆ indicates the start of a new branch
+# indicates the start of a new branch
 
   _        ___    _                           _       _   _               _ 
  | |      | __|__| |__ _ ___     __ _ _ _  __| |  ___| |_| |_  ___ _ _ __(_)
@@ -104,17 +106,17 @@
     ThinkPad Z: "Widescreen: for the ultimate multimedia experience"
     ThinkPad 13: "Mobility and productivity"
     ThinkPad 11e: "Rugged 11-inch laptops for school"
-.        ↑       ↑               ☆       ☆
+.        ↑       ↑               #       #
 2005    R52-15  R52-14          Z60t    Z60m†
 .        │       │               │       ├───────┐  
 2006    R60†-15 R60-14          Z61t    Z61m†   Z61p
 .        │       │      
 2007    R61*-15 R61-14          
-.        │       │       ☆           ☆           ☆
+.        │       │       #           #           #
 2008    R500    R400    SL500       SL400       SL300
 .        │       │       │           │           │
 2009     │       │      SL510       SL410        │
-.        │       │       │           │           │           ☆
+.        │       │       │           │           │           #
 2010    L512    L412    Edge 15     Edge 14     Edge 13     Edge 11
 .        │       │       │           │           │           │
 2011    L520    L420    E520+E525   E420+E425   E320+E325   E120+E125
@@ -122,7 +124,7 @@
 2012    L530    L430    E530/1+E535 E430/1+E435 E330+E335   E130+E135
 .        │       │       │           │                       │
 2013    L540    L440    E540+E545   E440+E445               E145
-.        │       │       │           │               ☆
+.        │       │       │           │               #
 2014     │       │       │           │              11e‡-1
 .        │       │       │           │               │
 2015    L550    L450    E550+E555   E450+E455       11e‡-2
@@ -137,7 +139,7 @@
 † also includes models with the "e" suffix, indicating weaker processors than the base models; in the case of Z60m and Z61m, "e" is used in place of "m"
 ‡ four variants of the ThinkPad 11e were sold in each generation: Windows, Chromebook, Yoga (Windows), and Yoga (Chromebook)
 ↑ indicates the branch continues from older IBM models
-☆ indicates the start of a new branch
+# indicates the start of a new branch
 
 Sources: Thinkwiki.org, Thinkwiki.de, /r/ThinkPad, Notebookcheck, Lenovo PSREF
 Text to ASCII art generated with http://patorjk.com/software/taag/
